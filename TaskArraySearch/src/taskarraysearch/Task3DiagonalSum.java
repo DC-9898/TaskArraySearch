@@ -1,11 +1,11 @@
+// GitHub Repo: https://github.com/DC-9898/TaskArraySearch.git
+
 package taskarraysearch;
 
 import java.util.Scanner; // Import Scanner for user input
 
 public class Task3DiagonalSum {
     public static void main(String[] args) {
-    // GitHub Repo: https://github.com/DC-9898/TaskArraySearch.gitm
-
     // Create a Scanner for user input
     Scanner scanner = new Scanner(System.in);
 
